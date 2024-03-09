@@ -12,7 +12,7 @@ For more information, please reach out over [email](mailto:michaelr526@gmail.com
   <img alt ="Stata" src = "https://img.shields.io/badge/-Stata-135F90?logo=data:PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MTUuMjcgOTUuODkiPg0KICA8ZGVmcz4NCiAgICA8c3R5bGU+DQogICAgICAuY2xzLTEgew0KICAgICAgICBmaWxsOiAjMTM1ZjkwOw0KICAgICAgfQ0KICAgIDwvc3R5bGU+DQogIDwvZGVmcz4NCiAgPHRpdGxlPnN0YXRhLWxvZ28tYmx1ZTwvdGl0bGU+DQogIDxnIGlkPSJGb3JlZ3JvdW5kIj4NCiAgICA8cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik05NC4yMywwbC04LDIxLjMxSDI5LjNhOCw4LDAsMCwwLDAsMTZINjQuOTNhMjkuMywyOS4zLDAsMCwxLDAsNTguNkgwTDgsNzQuNThINjQuOTNhOCw4LDAsMSwwLDAtMTZIMjkuM0EyOS4zLDI5LjMsMCwwLDEsMjkuMywwWiIvPg0KICAgIDxwb2x5Z29uIGNsYXNzPSJjbHMtMSIgcG9pbnRzPSIyNTkuOSAwIDI1MS45MSAyMS4zMSAyNzguNTUgMjEuMzEgMjc4LjU1IDk1Ljg5IDI5OS44NiA5NS44OSAyOTkuODYgMjEuMzEgMzIxLjE2IDIxLjMxIDMyOS4xNSAwIDI1OS45IDAiLz4NCiAgICA8cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik0zODYsNTguNkgzNDVhOCw4LDAsMCwwLDAsMTZoNDl2LTE2Wk0zNjYuMzEsMzcuMjlIMzk0VjI5YTgsOCwwLDAsMC04LTcuNjVIMzIzLjY5bDgtMjEuMzFIMzg2YTI5LjMsMjkuMywwLDAsMSwyOS4zLDI5LjNWOTUuODlIMzQ1YTI5LjMsMjkuMywwLDAsMSwwLTU4LjZaIi8+DQogICAgPHBhdGggY2xhc3M9ImNscy0xIiBkPSJNMjIyLjgsNTguNmgtNDFhOCw4LDAsMSwwLDAsMTZoNDguOTV2LTE2Wk0yMTIuMTQsMzcuMjlIMjMwLjhWMjlhOCw4LDAsMCwwLTgtNy42NUgxNjAuNTNsOC0yMS4zMUgyMjIuOGEyOS4zLDI5LjMsMCwwLDEsMjkuMywyOS4zVjk1Ljg5SDE4MS44NGEyOS4zLDI5LjMsMCwwLDEsMC01OC42WiIvPg0KICAgIDxwb2x5Z29uIGNsYXNzPSJjbHMtMSIgcG9pbnRzPSI5Ni43MyAwIDg4Ljc0IDIxLjMxIDExNS4zOCAyMS4zMSAxMTUuMzggOTUuODkgMTM2LjY5IDk1Ljg5IDEzNi42OSAyMS4zMSAxNTggMjEuMzEgMTY1Ljk5IDAgOTYuNzMgMCIvPg0KICA8L2c+DQo8L3N2Zz4NCg==&style=for-the-badge" />
 </p>
 
-### Code Samples
+### Code samples
 
 - 🚍 **[Bus Pending](https://github.com/RMedina19/bus_pending)** (2023 | Python, SQLite3): Scraped and analyzed 4.5 million bus-minute observations to measure inequality in Chicago Transit Authority bus delays with 3 classmaters.
 - 🏫 **[Teacher Mobility in CPS](https://github.com/m-rosenbaum/Teacher-Mobility)** (2018 | R, Stata): Example statistical code that scrapes and analyzes teacher employment data at CPS to show the effect of principal changes on teacher attrition using a synthetic control model.
@@ -33,6 +33,6 @@ Many repos for school projects are private to follow academic honesty policies. 
    - *Matching PPP data to political donations* (Data linkage): regular expressions; string data linkage; testing efficiency; Pandas
    - *Predicting school performance* (Predictions): Decision trees, test/train split; information gain; optimization; Pandas
 
-### Other Projects (Academic Articles)
+### Other projects (academic articles)
 - Glazerman, S., Grépin, K. A., Mueller, V., **Rosenbaum, M**., & Wu, N. (2023). [Do referrals improve the representation of women in mobile phone surveys?](https://doi.org/10.1016/j.jdeveco.2023.103077). Journal of Development Economics, 162, 103077.
 - Glazerman, S., **Rosenbaum, M.**, Sandino, R., Shaughnessy L. (2020). [Remote Surveying in a Pandemic](https://poverty-action.org/sites/default/files/publications/IPA-Phone-Surveying-in-a-Pandemic-Handbook.pdf). Innovations for Poverty Action: Working Paper.
