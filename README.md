@@ -1,6 +1,6 @@
 ### About me
 
-I'm Michael Rosenbaum, a current Masters student at the University of Chicago, studying [Computer Science and Public Policy](https://capp.uchicago.edu/). My professional experience is primarily in evaluating of social benefit programs and advising nonprofits/governments in monitoring and evaluation. Formally at Innovations for Poverty Action and the Behavioral Insights Team. 
+I'm Michael Rosenbaum, a current Masters student at the University of Chicago, studying [Computer Science and Public Policy](https://capp.uchicago.edu/). My professional experience is primarily in evaluating social benefit programs and advising nonprofits/governments in monitoring and evaluation. Formally at Innovations for Poverty Action and the Behavioral Insights Team. 
 
 For more information, please reach out over [email](mailto:michaelr526@gmail.com) or through [LinkedIn](https://www.linkedin.com/in/michael-rosenbaum-407523124/).
 
@@ -19,7 +19,7 @@ For more information, please reach out over [email](mailto:michaelr526@gmail.com
 
 Many repos for school projects are private to follow academic honesty policies. Code for any of the below is available on request:
 
-- **CAPP 121: Computer Science with Applications II** (Python)
+- **CAPP 121: Computer Science with Applications I** (Python)
    - *Implementing a SIR model of epidemic spread* (Functional Programming Basics): Control flow statements; data types
    - *Modeling Housing Segregation using a Schelling Model* (Decomposition): Functions; automatic testing.
    - *Analyzing Candidate Tweets using a bag of words model* (Dictionaries): Importing files; dictionaries; nested dictionaries; k-mers; abstraction 
