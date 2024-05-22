@@ -24,7 +24,7 @@ Many repos for school projects are private to follow academic honesty policies. 
    - *Implementing a SIR model of epidemic spread* (Functional Programming Basics): Control flow statements; data types
    - *Modeling Housing Segregation using a Schelling Model* (Decomposition): Functions; automatic testing.
    - *Analyzing Candidate Tweets using a bag of words model* (Dictionaries): Importing files; dictionaries; nested dictionaries; k-mers; abstraction 
-   - *Modelling election wait times* (Classes & Objects): Stacks; queues; object-oriented programming; attributes; methods
+   - *Modeling election wait times* (Classes & Objects): Stacks; queues; object-oriented programming; attributes; methods
    - *Creating a treemap (of ornithological data)* (Recursion): Trees; recursion; binary search.
    - *Summarizing airline delay data* (NumPy): Cleaning data in NumPy; modifying units of analysis; arrays.
  - **CAPP 122: Computer Science with Applications II** (Python)
