@@ -15,6 +15,7 @@ For more information, please reach out over [email](mailto:michaelr526@gmail.com
 ### Code samples
 
 - 🚍 **[Bus Pending](https://github.com/RMedina19/bus_pending)** (2023 | Python, SQLite3): Scraped and analyzed 4.5 million bus-minute observations to measure inequality in Chicago Transit Authority bus delays with 3 classmaters.
+- 💸 **[Predicting Poverty using a Proxy Means Test](https://github.com/m-rosenbaum/cr_pmt/)** (2023 | Python): Constructed a proxy means test to predict income using supervised machine learning for income categories from Costa Rican household survey data.
 - 🏫 **[Teacher Mobility in CPS](https://github.com/m-rosenbaum/Teacher-Mobility)** (2018 | R, Stata): Example statistical code that scrapes and analyzes teacher employment data at CPS to show the effect of principal changes on teacher attrition using a synthetic control model.
 
 Many repos for school projects are private to follow academic honesty policies. Code for any of the below is available on request:
@@ -24,14 +25,16 @@ Many repos for school projects are private to follow academic honesty policies. 
    - *Modeling Housing Segregation using a Schelling Model* (Decomposition): Functions; automatic testing.
    - *Analyzing Candidate Tweets using a bag of words model* (Dictionaries): Importing files; dictionaries; nested dictionaries; k-mers; abstraction 
    - *Modelling election wait times* (Classes & Objects): Stacks; queues; object-oriented programming; attributes; methods
-   - *Creating a treemap (of ornithological data)* (Recursion): Trees, recursion, binary search.
-   - *Summarizing airline delay data* (NumPy): Cleaning data in NumPy, modifying units of analysis, arrays.
+   - *Creating a treemap (of ornithological data)* (Recursion): Trees; recursion; binary search.
+   - *Summarizing airline delay data* (NumPy): Cleaning data in NumPy; modifying units of analysis; arrays.
  - **CAPP 122: Computer Science with Applications II** (Python)
    - *Similarity of political speeches* (Implementing an open addressing hash algorithm): virtual environments; hash tables; abstract classes; interfaces
    - *Creating a databse of Chicago Parks* (Web scraping): HTTP requests, scraping, CSS/XML selectors, APIs, JSON formatting
    - *Creating a front-end query interface* (Querying in SQL): Basic RDBMS structure; SQL queries; preventing injection
    - *Matching PPP data to political donations* (Data linkage): regular expressions; string data linkage; testing efficiency; Pandas
    - *Predicting school performance* (Predictions): Decision trees, test/train split; information gain; optimization; Pandas
+- **CAPP 235: Databases for Public Policy** (Python; SQL)
+   - *Storing and Cleaning Restaurant Inspections* (REST API with Flask): REST APIs; Flask server implementation; data linkage; POST / GET operations with a web front-end
 
 ### Other projects (academic articles)
 - Glazerman, S., Grépin, K. A., Mueller, V., **Rosenbaum, M**., & Wu, N. (2023). [Do referrals improve the representation of women in mobile phone surveys?](https://doi.org/10.1016/j.jdeveco.2023.103077). Journal of Development Economics, 162, 103077.
