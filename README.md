@@ -1,6 +1,6 @@
 ### About me
 
-I'm Michael Rosenbaum, a current Masters student at the University of Chicago, studying [Computer Science and Public Policy](https://capp.uchicago.edu/). My professional experience is primarily in evaluating social benefit programs and advising nonprofits/governments in monitoring and evaluation. Formally at Innovations for Poverty Action and the Behavioral Insights Team. 
+I'm Michael Rosenbaum, a Masters candidate at the University of Chicago, studying [Computer Science and Public Policy](https://capp.uchicago.edu/). Before this, I worked for almost a decade conducting impact evaluations and advising nonprofits/governments on monitoring and evaluation with a focus on public benefit programs. Formally at Innovations for Poverty Action and the Behavioral Insights Team. 
 
 For more information, please reach out over [email](mailto:michaelr526@gmail.com) or through [LinkedIn](https://www.linkedin.com/in/michael-rosenbaum-407523124/).
 
@@ -22,19 +22,19 @@ Many repos for school projects are private to follow academic honesty policies. 
 
 - **CAPP 121: Computer Science with Applications I** (Python)
    - *Implementing a SIR model of epidemic spread* (Functional Programming Basics): Control flow statements; data types
-   - *Modeling Housing Segregation using a Schelling Model* (Decomposition): Functions; automatic testing.
-   - *Analyzing Candidate Tweets using a bag of words model* (Dictionaries): Importing files; dictionaries; nested dictionaries; k-mers; abstraction 
+   - *Modeling housing segregation using a schelling model* (Decomposition): Functions; automatic testing.
+   - *Analyzing candidate tweets using a bag of words model* (Dictionaries): Importing files; dictionaries; nested dictionaries; k-mers; abstraction 
    - *Modeling election wait times* (Classes & Objects): Stacks; queues; object-oriented programming; attributes; methods
    - *Creating a treemap (of ornithological data)* (Recursion): Trees; recursion; binary search.
    - *Summarizing airline delay data* (NumPy): Cleaning data in NumPy; modifying units of analysis; arrays.
  - **CAPP 122: Computer Science with Applications II** (Python)
    - *Similarity of political speeches* (Implementing an open addressing hash algorithm): virtual environments; hash tables; abstract classes; interfaces
-   - *Creating a databse of Chicago Parks* (Web scraping): HTTP requests, scraping, CSS/XML selectors, APIs, JSON formatting
+   - *Creating a databse of Chicago parks* (Web scraping): HTTP requests, scraping, CSS/XML selectors, APIs, JSON formatting
    - *Creating a front-end query interface* (Querying in SQL): Basic RDBMS structure; SQL queries; preventing injection
-   - *Matching PPP data to political donations* (Data linkage): regular expressions; string data linkage; testing efficiency; Pandas
+   - *Matching PPP data to political donations* (Data linkage): Regular expressions; data linkage; efficiency optimization; test-driven development; Pandas
    - *Predicting school performance* (Predictions): Decision trees, test/train split; information gain; optimization; Pandas
 - **CAPP 235: Databases for Public Policy** (Python; SQL)
-   - *Storing and Cleaning Restaurant Inspections* (REST API with Flask): REST APIs; Flask server implementation; data linkage; POST / GET operations with a web front-end
+   - *Storing and cleaning restaurant inspections* (REST API with Flask): REST APIs; Flask servers; data linkage; POST / GET operations with a web front-end
 
 ### Other projects (academic articles)
 - Glazerman, S., Grépin, K. A., Mueller, V., **Rosenbaum, M**., & Wu, N. (2023). [Do referrals improve the representation of women in mobile phone surveys?](https://doi.org/10.1016/j.jdeveco.2023.103077). Journal of Development Economics, 162, 103077.
