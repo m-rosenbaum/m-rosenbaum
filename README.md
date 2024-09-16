@@ -37,5 +37,13 @@ Many repos for school projects are private to follow academic honesty policies. 
    - *Storing and cleaning restaurant inspections* (REST API with Flask): REST APIs; Flask servers; data linkage; POST / GET operations with a web front-end
 
 ### Other projects (academic articles)
+**Academic publications**
 - Glazerman, S., Grépin, K. A., Mueller, V., **Rosenbaum, M**., & Wu, N. (2023). [Do referrals improve the representation of women in mobile phone surveys?](https://doi.org/10.1016/j.jdeveco.2023.103077). Journal of Development Economics, 162, 103077.
+**Working papers and technical guidance**
+- Collins, E., Warren, S., Lamke, C., Contreras, I., Henderson, S., & **Rosenbaum, M**. (2023). [Representativeness of Remote Survey Methods in LMICs: A Cross-National Analysis of Pandemic-Era Studies](https://doi.org/10.2139/ssrn.4582588). Working paper.
+- Bogicevic, B., Das, N., Davies, E., Dillon, A., Glazerman, S., & **Rosenbaum, M**. (2021). [Assessing Repeated and Rescheduled Attempts in Random Digit Dial Surveys](https://doi.org/10.2139/ssrn.3929628). Global Poverty Research Lab Working Paper, No. 21-110. 
+- Das, N., Davies, E., Dillon, A., Glazerman, S., & **Rosenbaum, M**. (2021). [Optimal Timing for Random Digit Dialing](https://doi.org/10.2139/ssrn.3836960). Global Poverty Research Lab Working Paper, No. 21-107.
+- Dillon, A., Glazerman, S., & **Rosenbaum, M**. (2021). [Messaging to Improve Response Rates: Eﬀectiveness of Pre-Survey SMS Messages](https://doi.org/10.2139/ssrn.3836960). Global Poverty Research Lab Working Paper, No. 21-106.
+- Dillon, A., Glazerman, S., & **Rosenbaum, M**. (2021). [Understanding Response Rates in Random Digit Dial Surveys](https://doi.org/10.2139/ssrn.3836024). Global Poverty Research Lab Working Paper, No. 21-105. 
+- Henderson, S. & **Rosenbaum, M**. (2020) [Remote Surveying in a Pandemic: Research Synthesis](https://poverty-action.org/sites/default/files/publications/IPA-Evidence-Review-Remote-Data-Collection-Modes-Updated-December-2020.pdf). Innovations for Poverty Action Working Paper.
 - Glazerman, S., **Rosenbaum, M.**, Sandino, R., Shaughnessy L. (2020). [Remote Surveying in a Pandemic](https://poverty-action.org/sites/default/files/publications/IPA-Phone-Surveying-in-a-Pandemic-Handbook.pdf). Innovations for Poverty Action: Working Paper.
