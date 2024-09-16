@@ -1,6 +1,6 @@
 ### About me
 
-I'm Michael Rosenbaum, a Masters candidate at the University of Chicago, studying [Computer Science and Public Policy](https://capp.uchicago.edu/). Before this, I worked for almost a decade conducting impact evaluations and advising nonprofits/governments on monitoring and evaluation with a focus on public benefit programs. Formally at Innovations for Poverty Action and the Behavioral Insights Team. 
+I'm Michael Rosenbaum, a Masters candidate at the University of Chicago, studying [Computer Science and Public Policy](https://capp.uchicago.edu/). Before this, I worked for almost a decade advising nonprofits and governments on how to monitor and evaluate the effectiveness of their programs. I focus on public benefit programs. Formally at Innovations for Poverty Action and the Behavioral Insights Team. 
 
 For more information, please reach out over [email](mailto:michaelr526@gmail.com) or through [LinkedIn](https://www.linkedin.com/in/michael-rosenbaum-407523124/).
 
