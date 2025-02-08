@@ -90,7 +90,7 @@ Many repos for school projects are private to follow academic honesty policies. 
   Specialized course on the theory and implementation of distributed/scalable systems using the AWS platform. The course is based around a project to build a scalable and secure genomic annotation application.
   <br><br>
   <ul>
-    <li>Capstone Project: AWS (CloudFormation, CloudWatch, DynamoDB, EC2, IAM, Lambda, S3, SNS/SQS); HTML (Tailwind); Jinja; Flask; authentication; Stripe integration; shell scripting</li>
+    <li>Genomic Annotation Service Project: AWS (CloudFormation, CloudWatch, DynamoDB, EC2, IAM, Lambda, S3, SNS/SQS); HTML (Bootstrap); Jinja; Flask; authentication; Stripe integration; shell scripting</li>
   </ul>
 </details>
 
