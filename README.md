@@ -25,7 +25,7 @@ Many repos for school projects are private to follow academic honesty policies. 
     <strong>CAPP 30121: Computer Science with Applications I (Python)</strong>
   </summary>
   Intensive introduction to computational thinking using Python. Material covers basics of functional programming, object-oriented programming, and algorithms.
-  <br>
+  <br><br>
   <ul>
    <li><strong>Implementing a SIR model of epidemic spread (Functional Programming Basics)</strong>: Control flow statements; data types</li>
    <li><strong>Modeling housing segregation using a schelling model (Decomposition)</strong>: Functions; automatic testing</li>
@@ -40,7 +40,7 @@ Many repos for school projects are private to follow academic honesty policies. 
     <strong>CAPP 30122: Computer Science with Applications II (Python)</strong>
   </summary>
   Continuation of the intensive computational thinking sequence. Material covers data representation, shell scripting, and data structures.
-  <br>
+  <br><br>
   <ul>
     <li><strong>Similarity of political speeches (Implementing an open addressing hash algorithm)</strong>: virtual environments; hash tables; abstract classes; interfaces</li>
     <li><strong>Creating a databse of Chicago parks (Web scraping)</strong>: HTTP requests, scraping, CSS/XML selectors, APIs, JSON formatting</li>
@@ -53,8 +53,8 @@ Many repos for school projects are private to follow academic honesty policies. 
   <summary>
     <strong>CAPP 30235: Databases for Public Policy (Python; SQL)</strong>
   </summary>
-  Core relational database course that included a heavy theoretical component on design and query processing that is applied through a capstone project to develop a database and associated to run queries through a GUI.
-  <br>
+  Core relational database course that includes a heavy theoretical component on design and query processing that is applied through a capstone project to develop a database and associated to run queries through a GUI.
+  <br><br>
   <ul>
     <li><strong>Storing and cleaning restaurant inspections (REST API with Flask)</strong>: REST APIs; Flask servers; data linkage; POST / GET operations with a web front-end</li>
   </ul>
@@ -64,7 +64,7 @@ Many repos for school projects are private to follow academic honesty policies. 
     <strong>CAPP 30254: Machine Learning for Public Policy (Python: scikit-learn, PyTorch)</strong>
   </summary>
   Core machine learning course that covers statistical foundations of learning algorithms and how they are implemented across a wide variety of data contexts.
-  <br>
+  <br><br>
   <ul> 
     <li><strong>Classification</strong>: KNN, Decision Trees, and Interpretation</li>
     <li><strong>Accuracy: perceptrons, separability, accuracy</strong></li>
@@ -77,6 +77,7 @@ Many repos for school projects are private to follow academic honesty policies. 
     <strong>CAPP 30239: Data Visualization (Python; Javascript; HTML & CSS)</strong>
   </summary>
   Specialized course focusing on visualization theory such as perception of color and standard programming paradigms for visualization such as the grammar of graphics.
+  <br><br>
   <ul>
     <li><strong>Static Project (Altair)</strong>: static visual design principles; graphical narratives; grammar of graphics</li>
     <li><strong>Interactive Project (d3, MapLibre)</strong>: interactive design principles; browser-based interactive elements; MapLibre</li>
@@ -86,7 +87,8 @@ Many repos for school projects are private to follow academic honesty policies. 
   <summary>
     <strong>MPCS 51083: Cloud Computing (Python)</strong>
   </summary>
-  Specialized course on the theory and implementations of distributed/scalable systems using the AWS platform. The course is based around a project to build a scalable and secure genomic annotation application.
+  Specialized course on the theory and implementation of distributed/scalable systems using the AWS platform. The course is based around a project to build a scalable and secure genomic annotation application.
+  <br><br>
   <ul>
     <li>Capstone Project: AWS (CloudFormation, CloudWatch, DynamoDB, EC2, IAM, Lambda, S3, SNS/SQS); HTML (Tailwind); Jinja; Flask; authentication; Stripe integration; shell scripting</li>
   </ul>
