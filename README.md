@@ -20,23 +20,79 @@ For more information, please reach out over [email](mailto:michaelr526@gmail.com
 
 Many repos for school projects are private to follow academic honesty policies. Code for any of the below is available on request:
 
-- **CAPP 121: Computer Science with Applications I** (Python)
-   - *Implementing a SIR model of epidemic spread* (Functional Programming Basics): Control flow statements; data types
-   - *Modeling housing segregation using a schelling model* (Decomposition): Functions; automatic testing.
-   - *Analyzing candidate tweets using a bag of words model* (Dictionaries): Importing files; dictionaries; nested dictionaries; k-mers; abstraction 
-   - *Modeling election wait times* (Classes & Objects): Stacks; queues; object-oriented programming; attributes; methods
-   - *Creating a treemap (of ornithological data)* (Recursion): Trees; recursion; binary search.
-   - *Summarizing airline delay data* (NumPy): Cleaning data in NumPy; modifying units of analysis; arrays.
- - **CAPP 122: Computer Science with Applications II** (Python)
-   - *Similarity of political speeches* (Implementing an open addressing hash algorithm): virtual environments; hash tables; abstract classes; interfaces
-   - *Creating a databse of Chicago parks* (Web scraping): HTTP requests, scraping, CSS/XML selectors, APIs, JSON formatting
-   - *Creating a front-end query interface* (Querying in SQL): Basic RDBMS structure; SQL queries; preventing injection
-   - *Matching PPP data to political donations* (Data linkage): Regular expressions; data linkage; efficiency optimization; test-driven development; Pandas
-   - *Predicting school performance* (Predictions): Decision trees, test/train split; information gain; optimization; Pandas
-- **CAPP 235: Databases for Public Policy** (Python; SQL)
-   - *Storing and cleaning restaurant inspections* (REST API with Flask): REST APIs; Flask servers; data linkage; POST / GET operations with a web front-end
+<details>
+  <summary>
+    <strong>CAPP 30121: Computer Science with Applications I (Python)</strong>
+  </summary>
+  Intensive introduction to computational thinking using Python. Material covers basics of functional programming, object-oriented programming, and algorithms.
+  <br>
+  <ul>
+   <li><strong>Implementing a SIR model of epidemic spread (Functional Programming Basics)</strong>: Control flow statements; data types</li>
+   <li><strong>Modeling housing segregation using a schelling model (Decomposition)</strong>: Functions; automatic testing</li>
+   <li><strong>Analyzing candidate tweets using a bag of words model (Dictionaries)</strong>: Importing files; dictionaries; nested dictionaries; k-mers; abstraction</li>
+   <li><strong>Modeling election wait times (Classes & Objects)</strong>: Stacks; queues; object-oriented programming; attributes; methods</li>
+   <li><strong>Creating a treemap (of ornithological data) (Recursion)</strong>: Trees; recursion; binary search.</li>
+   <li><strong>Summarizing airline delay data (NumPy)</strong>: Cleaning data in NumPy; modifying units of analysis; arrays.</li>
+  </ul>
+</details>
+<details>
+  <summary>
+    <strong>CAPP 30122: Computer Science with Applications II (Python)</strong>
+  </summary>
+  Continuation of the intensive computational thinking sequence. Material covers data representation, shell scripting, and data structures.
+  <br>
+  <ul>
+    <li><strong>Similarity of political speeches (Implementing an open addressing hash algorithm)</strong>: virtual environments; hash tables; abstract classes; interfaces</li>
+    <li><strong>Creating a databse of Chicago parks (Web scraping)</strong>: HTTP requests, scraping, CSS/XML selectors, APIs, JSON formatting</li>
+    <li><strong>Creating a front-end query interface (Querying in SQL)</strong>: Basic RDBMS structure; SQL queries; preventing injection</li>
+    <li><strong>Matching PPP data to political donations (Data linkage)</strong>: Data linkage; regular expressions; efficiency optimization; test-driven development; Pandas</li>
+    <li><strong>Predicting school performance (Predictions)</strong>: Decision trees, test/train split; information gain; constrained optimization; Pandas</li>
+  </ul>
+</details>
+<details>
+  <summary>
+    <strong>CAPP 30235: Databases for Public Policy (Python; SQL)</strong>
+  </summary>
+  Core relational database course that included a heavy theoretical component on design and query processing that is applied through a capstone project to develop a database and associated to run queries through a GUI.
+  <br>
+  <ul>
+    <li><strong>Storing and cleaning restaurant inspections (REST API with Flask)</strong>: REST APIs; Flask servers; data linkage; POST / GET operations with a web front-end</li>
+  </ul>
+</details>
+<details>
+  <summary>
+    <strong>CAPP 30254: Machine Learning for Public Policy (Python: scikit-learn, PyTorch)</strong>
+  </summary>
+  Core machine learning course that covers statistical foundations of learning algorithms and how they are implemented across a wide variety of data contexts.
+  <br>
+  <ul> 
+    <li><strong>Classification</strong>: KNN, Decision Trees, and Interpretation</li>
+    <li><strong>Accuracy: perceptrons, separability, accuracy</strong></li>
+    <li><strong>Optimization</strong>: penalized regression, stochastic gradient descent, learning rates</li>
+    <li><strong>Deep Learning</strong>: neural networks, backpropagation, PyTorch</li>
+  </ul>
+</details>
+<details>
+  <summary>
+    <strong>CAPP 30239: Data Visualization (Python; Javascript; HTML & CSS)</strong>
+  </summary>
+  Specialized course focusing on visualization theory such as perception of color and standard programming paradigms for visualization such as the grammar of graphics.
+  <ul>
+    <li><strong>Static Project (Altair)</strong>: static visual design principles; graphical narratives; grammar of graphics</li>
+    <li><strong>Interactive Project (d3, MapLibre)</strong>: interactive design principles; browser-based interactive elements; MapLibre</li>
+  </ul>
+</details>
+<details>
+  <summary>
+    <strong>MPCS 51083: Cloud Computing (Python)</strong>
+  </summary>
+  Specialized course on the theory and implementations of distributed/scalable systems using the AWS platform. The course is based around a project to build a scalable and secure genomic annotation application.
+  <ul>
+    <li>Capstone Project: AWS (CloudFormation, CloudWatch, DynamoDB, EC2, IAM, Lambda, S3, SNS/SQS); HTML (Tailwind); Jinja; Flask; authentication; Stripe integration; shell scripting</li>
+  </ul>
+</details>
 
-### Other projects (academic articles)
+### Research
 **Academic publications**
 - Glazerman, S., Grépin, K. A., Mueller, V., **Rosenbaum, M**., & Wu, N. (2023). [Do referrals improve the representation of women in mobile phone surveys?](https://doi.org/10.1016/j.jdeveco.2023.103077). Journal of Development Economics, 162, 103077.
 
