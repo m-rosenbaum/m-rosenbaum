@@ -58,7 +58,7 @@ Many repos for school projects are private to follow academic honesty policies. 
 </details>
 <details>
   <summary>
-    <strong>CAPP 30235: Databases for Public Policy (Python; SQL)</strong>
+    <strong>CAPP 30235: Databases for Public Policy (Python [Flask]; SQL [MySQL])</strong>
   </summary>
   Core relational database course that includes a heavy theoretical component on design and query processing that is applied through a capstone project to develop a database and associated to run queries through a GUI.
   <br><br>
@@ -68,7 +68,7 @@ Many repos for school projects are private to follow academic honesty policies. 
 </details>
 <details>
   <summary>
-    <strong>CAPP 30254: Machine Learning for Public Policy (Python: scikit-learn, PyTorch)</strong>
+    <strong>CAPP 30254: Machine Learning for Public Policy (Python [scikit-learn, PyTorch])</strong>
   </summary>
   Core machine learning course that covers statistical foundations of learning algorithms and how they are implemented across a wide variety of data contexts.
   <br><br>
@@ -81,18 +81,18 @@ Many repos for school projects are private to follow academic honesty policies. 
 </details>
 <details>
   <summary>
-    <strong>CAPP 30239: Data Visualization (Python; Javascript; HTML & CSS)</strong>
+    <strong>CAPP 30239: Data Visualization (Python [Altair]; JavaScript [D3]; HTML & CSS)</strong>
   </summary>
   Specialized course focusing on visualization theory such as perception of color and standard programming paradigms for visualization such as the grammar of graphics.
   <br><br>
   <ul>
     <li><strong>Static Project (Altair)</strong>: static visual design principles; graphical narratives; grammar of graphics</li>
-    <li><strong>Interactive Project (d3, MapLibre)</strong>: interactive design principles; browser-based interactive elements; MapLibre</li>
+    <li><strong>Interactive Project (D3, MapLibre)</strong>: interactive design principles; browser-based interactive elements; MapLibre</li>
   </ul>
 </details>
 <details>
   <summary>
-    <strong>MPCS 51083: Cloud Computing (Python)</strong>
+    <strong>MPCS 51083: Cloud Computing (Python [boto3])</strong>
   </summary>
   Specialized course on the theory and implementation of distributed/scalable systems using the AWS platform. The course is based around a project to build a scalable and secure genomic annotation application.
   <br><br>
