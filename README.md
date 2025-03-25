@@ -1,6 +1,6 @@
 ### About me
 
-I'm Michael Rosenbaum, a Masters candidate at the University of Chicago, studying [Computer Science and Public Policy](https://capp.uchicago.edu/). Before this, I worked for almost a decade advising nonprofits and governments on how to monitor and evaluate the effectiveness of their programs. I focus on public benefit programs. Formally at Innovations for Poverty Action and the Behavioral Insights Team. 
+I'm Michael Rosenbaum, a Masters candidate at the University of Chicago, studying [Computer Science and Public Policy](https://capp.uchicago.edu/). Before this, I advised nonprofits and governments on how to monitor and evaluate the effectiveness of their programs. I focus on public benefit programs. Formally at Innovations for Poverty Action and the Behavioral Insights Team. 
 
 For more information, please reach out over [email](mailto:michaelr526@gmail.com) or through [LinkedIn](https://www.linkedin.com/in/michael-rosenbaum-407523124/).
 
@@ -14,8 +14,8 @@ For more information, please reach out over [email](mailto:michaelr526@gmail.com
 
 ### Code samples
 
-- 🚍 **[Bus Pending](https://github.com/RMedina19/bus_pending)** (2023 | Python, SQLite3): Scraped and analyzed 4.5 million bus-minute observations to measure inequality in Chicago Transit Authority bus delays with 3 classmaters.
-- 💸 **[Predicting Poverty using a Proxy Means Test](https://github.com/m-rosenbaum/cr_pmt/)** (2024 | Python): Constructed a proxy means test to predict income categories from Costa Rican household survey data using supervised machine learning techniques.
+- 🚍 **[Bus Pending](https://github.com/RMedina19/bus_pending)** (2023 | Python, SQLite3): Scraped and analyzed 4.5 million bus-minute observations to measure inequality in Chicago Transit Authority bus delays with 3 classmaters. Example applicaiton produced as part of graduate school class.
+- 💸 **[Predicting Poverty using a Proxy Means Test](https://github.com/m-rosenbaum/cr_pmt/)** (2024 | Python): Constructed a proxy means test to predict income categories from Costa Rican household survey data using supervised machine learning techniques. Example prediction pipeline produced as part of a graduate school class.
 - 🏫 **[Teacher Mobility in CPS](https://github.com/m-rosenbaum/Teacher-Mobility)** (2018 | R, Stata): Example statistical code that scrapes and analyzes teacher employment data to show the effect of principal changes on teacher attrition using a synthetic control model.
 
 Many repos for school projects are private to follow academic honesty policies. Code for any of the below is available on request:
