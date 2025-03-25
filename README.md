@@ -8,15 +8,22 @@ For more information, please reach out over [email](mailto:michaelr526@gmail.com
 
 <p>
   <img alt= "Python" src = "https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=for-the-badge" />
+  <br>
+  <img alt="HTML" src= "https://img.shields.io/badge/HTML-%23E34F26.svg?logo=html5&logoColor=white&style=for-the-badge" />
+  <img alt="CSS" src= "https://img.shields.io/badge/CSS-1572B6?logo=css3&logoColor=fff&style=for-the-badge" />
+  <img alt="JavaScript" src= "https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=000&style=for-the-badge" />
+  <br>
   <img alt ="R" src = "https://img.shields.io/badge/-R-276DC3?logo=r&logoColor=white&style=for-the-badge" />
   <img alt ="Stata" src = "https://img.shields.io/badge/-Stata-135F90?logo=data:PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCA0MTUuMjcgOTUuODkiPg0KICA8ZGVmcz4NCiAgICA8c3R5bGU+DQogICAgICAuY2xzLTEgew0KICAgICAgICBmaWxsOiAjMTM1ZjkwOw0KICAgICAgfQ0KICAgIDwvc3R5bGU+DQogIDwvZGVmcz4NCiAgPHRpdGxlPnN0YXRhLWxvZ28tYmx1ZTwvdGl0bGU+DQogIDxnIGlkPSJGb3JlZ3JvdW5kIj4NCiAgICA8cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik05NC4yMywwbC04LDIxLjMxSDI5LjNhOCw4LDAsMCwwLDAsMTZINjQuOTNhMjkuMywyOS4zLDAsMCwxLDAsNTguNkgwTDgsNzQuNThINjQuOTNhOCw4LDAsMSwwLDAtMTZIMjkuM0EyOS4zLDI5LjMsMCwwLDEsMjkuMywwWiIvPg0KICAgIDxwb2x5Z29uIGNsYXNzPSJjbHMtMSIgcG9pbnRzPSIyNTkuOSAwIDI1MS45MSAyMS4zMSAyNzguNTUgMjEuMzEgMjc4LjU1IDk1Ljg5IDI5OS44NiA5NS44OSAyOTkuODYgMjEuMzEgMzIxLjE2IDIxLjMxIDMyOS4xNSAwIDI1OS45IDAiLz4NCiAgICA8cGF0aCBjbGFzcz0iY2xzLTEiIGQ9Ik0zODYsNTguNkgzNDVhOCw4LDAsMCwwLDAsMTZoNDl2LTE2Wk0zNjYuMzEsMzcuMjlIMzk0VjI5YTgsOCwwLDAsMC04LTcuNjVIMzIzLjY5bDgtMjEuMzFIMzg2YTI5LjMsMjkuMywwLDAsMSwyOS4zLDI5LjNWOTUuODlIMzQ1YTI5LjMsMjkuMywwLDAsMSwwLTU4LjZaIi8+DQogICAgPHBhdGggY2xhc3M9ImNscy0xIiBkPSJNMjIyLjgsNTguNmgtNDFhOCw4LDAsMSwwLDAsMTZoNDguOTV2LTE2Wk0yMTIuMTQsMzcuMjlIMjMwLjhWMjlhOCw4LDAsMCwwLTgtNy42NUgxNjAuNTNsOC0yMS4zMUgyMjIuOGEyOS4zLDI5LjMsMCwwLDEsMjkuMywyOS4zVjk1Ljg5SDE4MS44NGEyOS4zLDI5LjMsMCwwLDEsMC01OC42WiIvPg0KICAgIDxwb2x5Z29uIGNsYXNzPSJjbHMtMSIgcG9pbnRzPSI5Ni43MyAwIDg4Ljc0IDIxLjMxIDExNS4zOCAyMS4zMSAxMTUuMzggOTUuODkgMTM2LjY5IDk1Ljg5IDEzNi42OSAyMS4zMSAxNTggMjEuMzEgMTY1Ljk5IDAgOTYuNzMgMCIvPg0KICA8L2c+DQo8L3N2Zz4NCg==&style=for-the-badge" />
+  <br>
+  <img alt= "Figma" src = "https://img.shields.io/badge/Figma-F24E1E?logo=figma&logoColor=white&style=for-the-badge" />
 </p>
 
 ### Code samples
 
-- 🚍 **[Bus Pending](https://github.com/RMedina19/bus_pending)** (2023 | Python, SQLite3): Scraped and analyzed 4.5 million bus-minute observations to measure inequality in Chicago Transit Authority bus delays with 3 classmaters. Example applicaiton produced as part of graduate school class.
+- 🚍 **[Bus Pending](https://github.com/RMedina19/bus_pending)** (2023 | Python, SQLite3): Scraped and analyzed 4.5 million bus-minute observations to measure inequality in Chicago Transit Authority bus delays with 3 classmaters. Example application produced as part of graduate school class.
 - 💸 **[Predicting Poverty using a Proxy Means Test](https://github.com/m-rosenbaum/cr_pmt/)** (2024 | Python): Constructed a proxy means test to predict income categories from Costa Rican household survey data using supervised machine learning techniques. Example prediction pipeline produced as part of a graduate school class.
-- 🏫 **[Teacher Mobility in CPS](https://github.com/m-rosenbaum/Teacher-Mobility)** (2018 | R, Stata): Example statistical code that scrapes and analyzes teacher employment data to show the effect of principal changes on teacher attrition using a synthetic control model.
+- 🏫 **[Teacher Mobility in Chicago Public Schools](https://github.com/m-rosenbaum/Teacher-Mobility)** (2018 | R, Stata): Example statistical code that scrapes and analyzes teacher employment data to show the effect of principal changes on teacher attrition using a synthetic control model.
 
 Many repos for school projects are private to follow academic honesty policies. Code for any of the below is available on request:
 
