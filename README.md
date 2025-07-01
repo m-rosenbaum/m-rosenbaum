@@ -21,7 +21,7 @@ For more information, please reach out over [email](mailto:michaelr526@gmail.com
 
 ### Code samples
 
-- 🚍 **[Bus Pending](https://github.com/RMedina19/bus_pending)** (2023 | Python, SQLite3): Scraped and analyzed 4.5 million bus-minute observations to measure inequality in Chicago Transit Authority bus delays. Example application produced as a team of 4 as part of a class project in the second quarter of a graduate CS program. My contributions included scraping, command line interface, and project management.
+- 🏢 **[Apartments Plus](https://github.com/uchicago-capp-30320/apt-plus)** (2025 | JavaScript, Python (Django), PostGIS): [Apartments Plus](https://aptpl.us): Apartments Plus aggregates data that mainstream rental sites often don’t display, such as building defects and nearby grocery stores. Example full stack application produced with a team of 8. My contributions included project management, product design, frontend coding and testing (playwright), and code review.
 - 💸 **[Predicting Poverty using a Proxy Means Test](https://github.com/m-rosenbaum/cr_pmt/)** (2024 | Python): Constructed a proxy means test to predict income categories from Costa Rican household survey data using supervised machine learning techniques. Example machne learning pipeline produced with a team of 3 as part of a class project in the third quarter of a CS program. My contributions included sampling and tuning.
 - 🏫 **[Teacher Mobility in Chicago Public Schools](https://github.com/m-rosenbaum/Teacher-Mobility)** (2018 | R, Stata): Example statistical code that scrapes and analyzes teacher employment data to show the effect of principal changes on teacher attrition using a synthetic control model.
 
