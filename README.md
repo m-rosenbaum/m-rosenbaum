@@ -25,8 +25,10 @@ For more information, please reach out over [email](mailto:michaelr526@gmail.com
 - 💸 **[Predicting Poverty using a Proxy Means Test](https://github.com/m-rosenbaum/cr_pmt/)** (2024 | Python): Constructed a proxy means test to predict income categories from Costa Rican household survey data using supervised machine learning techniques. Example machne learning pipeline produced with a team of 3 as part of a class project in the third quarter of a CS program. My contributions included sampling and tuning.
 - 🏫 **[Teacher Mobility in Chicago Public Schools](https://github.com/m-rosenbaum/Teacher-Mobility)** (2018 | R, Stata): Example statistical code that scrapes and analyzes teacher employment data to show the effect of principal changes on teacher attrition using a synthetic control model.
 
-Many repos for school projects are private to follow academic honesty policies. Code for any of the below is available on request:
-
+<details>
+<summary>
+  Many repos for school projects are private to follow academic honesty policies. Code for any of the below is available on request:
+</summary>
 <details>
   <summary>
     <strong>CAPP 30121: Computer Science with Applications I (Python)</strong>
@@ -99,6 +101,17 @@ Many repos for school projects are private to follow academic honesty policies. 
   <ul>
     <li><strong>Genomic Annotation Service Project</strong>: AWS (CloudFormation, CloudWatch, DynamoDB, EC2, IAM, Lambda, S3, SNS/SQS); HTML (Bootstrap); Jinja; Flask; authentication; Stripe integration; shell scripting</li>
   </ul>
+</details>
+<details>
+<summary>
+  <strong>CAPP 30320: Software Development for Civic Technology (Python [Django]; JavaScript; Docker; Playwright)</strong>
+</summary>
+Specialized course on full-stack software development in teams of 6-8. The course is based around applying a human-centered design approach to software design. I managed the project team, led frontend design work and user research, and implemented frontend scripting.
+<br><br>
+<ul>
+  <li><strong>Apartments Plus</strong>: HTML; CSS; JavaScript (Vanilla; MapLibre); Django; Docker; Playwright </li>
+</ul>
+</details>
 </details>
 
 ### Research
