@@ -117,6 +117,7 @@ Specialized course on full-stack software development in teams of 6-8. The cours
 ### Research
 **Academic publications**
 - Glazerman, S., Grépin, K. A., Mueller, V., **Rosenbaum, M**., & Wu, N. (2023). [Do referrals improve the representation of women in mobile phone surveys?](https://doi.org/10.1016/j.jdeveco.2023.103077). Journal of Development Economics, 162, 103077.
+- Glazerman, S., Dillon, A., Karlan D., **Rosenbaum, M**., & Udry, C. (Forthcoming). [Optimizing Protocols for Random Digital Dial Surveys: Evidence from Low- and Middle-Income Countries](). Survey Research Methods.
 
 **Working papers and technical guidance**
   
